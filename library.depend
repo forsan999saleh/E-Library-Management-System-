@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1702380929 source:d:\programs\codes\library\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Library.h"
+
+1702384894 d:\programs\codes\library\library\library.h
+
+1702384123 source:d:\programs\codes\library\library\library.c
+	<stdio.h>
+	"Library.h"
+	<string.h>
+
+1702385265 source:d:\code blocks\library prpject\library\library\library\library.c
+	<stdio.h>
+	"Library.h"
+	<string.h>
+
+1702384894 d:\code blocks\library prpject\library\library\library\library.h
+
+1702380929 source:d:\code blocks\library prpject\library\library\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Library.h"
+
